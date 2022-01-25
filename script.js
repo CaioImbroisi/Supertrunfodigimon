@@ -3,7 +3,7 @@
 var cartas = [ 
   //Rokie
   { nome: "Agumon",
-   imagem: "https://i.ibb.co/4RrQqG0/agu.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/agu.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 6,
@@ -12,7 +12,7 @@ atributos: {
 
 } },
               { nome: "Biyomon",
-  imagem: "https://i.ibb.co/sQ2NF3W/BIOMON.png",
+  imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/BIOMON.png",
 atributos: {
   ATTACK: 4, 
   DEFENSE: 3,
@@ -20,7 +20,7 @@ atributos: {
   BRAINS : 3 }},
   
   { nome: "Betamon",
-   imagem: "https://i.ibb.co/ySrnzwp/betamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/betamon.png",
 atributos: {
   ATTACK: 4, 
   DEFENSE: 7,
@@ -29,7 +29,7 @@ atributos: {
   },
   
    { nome: "Elecmon",
-   imagem: "https://i.ibb.co/Wy5yVP2/elecmon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/elecmon.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 2,
@@ -38,7 +38,7 @@ atributos: {
   },
   
    { nome: "Gabumon",
-   imagem: "https://i.ibb.co/fqvMhGL/gabumon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/gabumon.png",
 atributos: {
   ATTACK: 3, 
   DEFENSE: 7,
@@ -46,7 +46,7 @@ atributos: {
   BRAINS : 2}  
   },
     { nome: "Palmon",
-   imagem: "https://images.uncyc.org/pt/2/25/Palmon_attack_by_CheiftainMaelgwyn.jpg",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Palmon.jpg",
 atributos: {
   ATTACK: 5, 
   DEFENSE: 3,
@@ -54,7 +54,7 @@ atributos: {
   BRAINS : 7}  
   },
   { nome: "Patamon",
-   imagem: "https://i.ibb.co/TWWjTFK/patamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/patamon-kai.png",
 atributos: {
   ATTACK: 2, 
   DEFENSE: 1,
@@ -64,7 +64,7 @@ atributos: {
   
   //Champion
    { nome: "Penguinmon",
-   imagem: "https://i.ibb.co/KmBTjzL/Penguinmon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Penguinmon.png",
 atributos: {
   ATTACK: 5, 
   DEFENSE: 7,
@@ -72,7 +72,7 @@ atributos: {
   BRAINS : 7}  
   },
      { nome: "Airdramon",
-   imagem: "https://pbs.twimg.com/media/ElB7B07WAAEZf5C.jpg",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Airdramon.jpg",
 atributos: {
   ATTACK: 4, 
   DEFENSE: 4,
@@ -80,7 +80,7 @@ atributos: {
   BRAINS : 8}  
   },
    { nome: "Angemon",
-   imagem: "https://i.ibb.co/njcNLZm/angemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/angemon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 7,
@@ -88,7 +88,7 @@ atributos: {
   BRAINS : 9}  
   },
     { nome: "Bakemon",
-   imagem: "https://i.ibb.co/HnVpPSt/unnamed.jpg",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/bakemon.jpg",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 7,
@@ -96,7 +96,7 @@ atributos: {
   BRAINS : 7}  
   },
    { nome: "Birdramon",
-   imagem: "https://i.pinimg.com/originals/2c/5a/e9/2c5ae9be05bfb40ff83491fad5d5dacb.jpg",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Birdramon.jpg",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 5,
@@ -104,7 +104,7 @@ atributos: {
   BRAINS : 5}  
   },
      { nome: "Centarumon",
-   imagem: "https://i.ibb.co/QJh3hBt/centarumon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/centarumon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 5,
@@ -112,7 +112,7 @@ atributos: {
   BRAINS : 9}  
   },
      { nome: "Coelamon",
-   imagem: "https://i.ibb.co/dWT16xj/coelamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/coelamon.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -120,7 +120,7 @@ atributos: {
   BRAINS : 6}  
   },
     { nome: "Devimon",
-   imagem: "https://i.ibb.co/fSxyhyc/devimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/devimon.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -128,7 +128,7 @@ atributos: {
   BRAINS : 8}  
   },
   { nome: "Drimogemon",
-   imagem: "https://i.ibb.co/sscTgpZ/drimo.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/drimo-kai-no-shadow.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 8,
@@ -136,7 +136,7 @@ atributos: {
   BRAINS : 4}  
   },
     { nome: "Frigimon",
-   imagem: "https://i.ibb.co/c6NmXc7/frieg.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/frieg-kai.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 5,
@@ -144,7 +144,7 @@ atributos: {
   BRAINS : 8}  
   },
    { nome: "Garurumon",
-   imagem: "https://i.ibb.co/s14hNBP/garurumon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/garurumon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 2,
@@ -152,7 +152,7 @@ atributos: {
   BRAINS : 8}  
   },
    { nome: "Greymon",
-   imagem: "https://i.ibb.co/HCcsCqY/greymon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/greymon.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -160,7 +160,7 @@ atributos: {
   BRAINS : 8}  
   },
    { nome: "Kabuterimon",
-   imagem: "https://i.ibb.co/HdvdLDB/kabuterimon-2.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/kabuterimon-2-kai.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 8,
@@ -168,7 +168,7 @@ atributos: {
   BRAINS : 3}  
   },
    { nome: "Kokatorimon",
-   imagem: "https://i.ibb.co/8zYRcrS/Kokatorimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Kokatorimon-kai.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -176,7 +176,7 @@ atributos: {
   BRAINS : 4}  
   },
      { nome: "Kuwagamon",
-   imagem: "https://i.ibb.co/SPsqsR5/Kuwagamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Kuwagamon-kai.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 4,
@@ -184,7 +184,7 @@ atributos: {
   BRAINS : 1}  
   },
     { nome: "Leomon",
-   imagem: "https://i.ibb.co/3zY4bsB/leomon2.jpg",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/leomon2-kai.jpg",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 4,
@@ -192,7 +192,7 @@ atributos: {
   BRAINS : 1}  
   },
      { nome: "Meramon",
-   imagem: "https://i.ibb.co/xmBNmv8/d6v03c4-c801dd40-c3ce-40fa-86bb-fa49d232c532.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/meramon.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 4,
@@ -200,7 +200,7 @@ atributos: {
   BRAINS : 6}  
   },
     { nome: "Monochromon",
-   imagem: "https://i.ibb.co/Z6zyDb5/monocromon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/monocromon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 8,
@@ -208,7 +208,7 @@ atributos: {
   BRAINS : 8}  
   },
   { nome: "Mojyamon",
-   imagem: "https://i.ibb.co/vD7KmNw/mojaimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/mojaimon-kai.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 6,
@@ -216,7 +216,7 @@ atributos: {
   BRAINS : 5}  
   },
   { nome: "Nanimon",
-   imagem: "https://i.ibb.co/XYrzP5W/nanimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/nanimon-kai.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -224,7 +224,7 @@ atributos: {
   BRAINS : 1}  
   },
   { nome: "Ninjamon",
-   imagem: "https://i.ibb.co/t8jNrYx/Ninjamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Ninjamon.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 5,
@@ -232,7 +232,7 @@ atributos: {
   BRAINS : 5}  
   },
    { nome: "Numemon",
-   imagem: "https://i.ibb.co/kS2r2j1/Numemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Numemon-kai.png",
 atributos: {
   ATTACK: 5, 
   DEFENSE: 5,
@@ -240,7 +240,7 @@ atributos: {
   BRAINS : 1}  
   },
      { nome: "Ogremon",
-   imagem: "https://i.ibb.co/dcGGtj0/ogremon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/ogremon-kai.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 4,
@@ -248,7 +248,7 @@ atributos: {
   BRAINS : 2}  
   },
     { nome: "Seadramon",
-   imagem: "https://i.ibb.co/JvLRrD0/seadramon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/seadramon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 8,
@@ -256,7 +256,7 @@ atributos: {
   BRAINS : 8}  
   },
   { nome: "Shellmon",
-   imagem: "https://i.ibb.co/s27Pwnb/Shellmon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Shellmon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 9,
@@ -264,7 +264,7 @@ atributos: {
   BRAINS : 6}  
   },
   { nome: "Sukamon",
-   imagem: "https://i.ibb.co/w60BxWc/sukamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/sukamon.png",
 atributos: {
   ATTACK: 5, 
   DEFENSE: 1,
@@ -272,7 +272,7 @@ atributos: {
   BRAINS : 5}  
   },
    { nome: "Tyranomon",
-   imagem: "https://i.ibb.co/XJrh3Dj/tyranomon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/tyranomon-kai.png",
 atributos: {
   ATTACK: 7, 
   DEFENSE: 9,
@@ -280,7 +280,7 @@ atributos: {
   BRAINS : 4}  
   },
   { nome: "Unimon",
-   imagem: "https://i.ibb.co/TgNRsNw/unimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/unimon-kai.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 5,
@@ -288,7 +288,7 @@ atributos: {
   BRAINS : 6}  
   },
   { nome: "Veggiemon",
-   imagem: "https://i.ibb.co/XFXKQt4/vagiemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/vagiemon-kai.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 5,
@@ -296,7 +296,7 @@ atributos: {
   BRAINS : 7}  
   },
    { nome: "Whamon",
-   imagem: "https://i.ibb.co/Cbhh2WW/whamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/whamon-kai.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 6,
@@ -305,7 +305,7 @@ atributos: {
   },
     //Ultimate
    { nome: "Andromon",
-   imagem: "https://i.ibb.co/7R0RvDw/Eg-Fuecd-WAAAKgt3.jpg",
+   imagem: "https://github.com/CaioImbroisi/Supertrunfodigimon/blob/main/card_img/andromon.jpg?raw=true",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 10,
@@ -313,7 +313,7 @@ atributos: {
   BRAINS : 10}  
   },
   { nome: "Digitamamon",
-   imagem: "https://i.ibb.co/R4PrNfK/digitamamon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/digitamamon-kai.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 6,
@@ -321,7 +321,7 @@ atributos: {
   BRAINS : 8}  
   },
    { nome: "Etemon",
-   imagem: "https://i.ibb.co/stGR8Rq/etmon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/etmon.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 6,
@@ -329,7 +329,7 @@ atributos: {
   BRAINS : 10}  
   },
    { nome: "Giromon",
-   imagem: "https://i.ibb.co/hcV58Vk/gIROMON.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/g-IROMON-kai.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 6,
@@ -337,7 +337,7 @@ atributos: {
   BRAINS : 10}  
   },
    { nome: "Hercules Kabuterimon",
-   imagem: "https://i.ibb.co/pftDFfW/hercules-kabuterimon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/hercules-kabuterimon-kai.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 12,
@@ -345,7 +345,7 @@ atributos: {
   BRAINS : 5}  
   },
    { nome: "Mamemon",
-   imagem: "https://i.ibb.co/PMnN2Sq/mamemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/mamemon.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 7,
@@ -353,7 +353,7 @@ atributos: {
   BRAINS : 10}  
   },
     { nome: "Megadramon",
-   imagem: "https://i.ibb.co/gyF11Z0/megadramon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/megadramon.png",
 atributos: {
   ATTACK: 11, 
   DEFENSE: 8,
@@ -361,7 +361,7 @@ atributos: {
   BRAINS : 10}  
   },
    { nome: "Megaseadramon",
-   imagem: "https://i.ibb.co/2Mvz36S/megaseadramon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/megaseadramon-kai.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 8,
@@ -369,7 +369,7 @@ atributos: {
   BRAINS : 10}  
   },
      { nome: "Metal Greymon",
-   imagem: "https://i.ibb.co/s3TVjq7/metal-greymon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/metal-greymon.png",
 atributos: {
   ATTACK: 11, 
   DEFENSE: 11,
@@ -377,7 +377,7 @@ atributos: {
   BRAINS : 8}  
   },
     { nome: "Metal Mamemon",
-   imagem: "https://i.ibb.co/kcwF1H5/metal-mamemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/metal-mamemon-kai.png",
 atributos: {
   ATTACK: 11, 
   DEFENSE: 10,
@@ -385,7 +385,7 @@ atributos: {
   BRAINS : 10}  
   },
    { nome: "Monzaemon",
-   imagem: "https://i.ibb.co/179sJ8J/Monzaemon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Monzaemon-kai.png",
 atributos: {
   ATTACK: 9, 
   DEFENSE: 9,
@@ -393,7 +393,7 @@ atributos: {
   BRAINS : 9}  
   },
    { nome: "Phönixmon",
-   imagem: "https://i.ibb.co/ZgMGRdW/phoenixmon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/phoenixmon-kai.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 6,
@@ -401,7 +401,7 @@ atributos: {
   BRAINS : 12}  
   },
     { nome: "Piximon",
-   imagem: "https://i.ibb.co/p04pPT4/piximon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/piximon-kai.png",
 atributos: {
   ATTACK: 8, 
   DEFENSE: 8,
@@ -409,7 +409,7 @@ atributos: {
   BRAINS : 10}  
   },
       { nome: "Skull Greymon",
-   imagem: "https://i.ibb.co/9tRbrGh/Skullgreymon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/Skullgreymon-kai.png",
 atributos: {
   ATTACK: 12, 
   DEFENSE: 10,
@@ -417,7 +417,7 @@ atributos: {
   BRAINS : 10}  
   },
      { nome: "Vademon",
-   imagem: "https://i.ibb.co/0CDWg13/vademon.png",
+   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/vademon-kai.png",
 atributos: {
   ATTACK: 10, 
   DEFENSE: 10,
