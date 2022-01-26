@@ -3,7 +3,7 @@
 var cartas = [ 
   //Rokie
   { nome: "Agumon",
-   imagem: "https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/card_img/agu.png",
+   imagem: "./card_img/agu.png",
 atributos: {
   ATTACK: 6, 
   DEFENSE: 6,
