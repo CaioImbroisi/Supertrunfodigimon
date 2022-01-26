@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
     min-height: 854px;
-    background-image: url('https://raw.githubusercontent.com/CaioImbroisi/Supertrunfodigimon/main/layout_img/bg_img.png');
+    background-image: url('/layout_img/bg_img.png');
     background-color: #000000;
     background-size: cover;
     background-position: center top;
