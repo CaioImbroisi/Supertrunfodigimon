@@ -1,4 +1,4 @@
-# Supertrunfodigimon
+# Super Trunfo: Digimon PSX
 Super Trunfo do digimon, este projeto foi feito na minha primeira semana estudando programação.
 
 ### Como funciona?
