@@ -1,4 +1,5 @@
-[![Super Trunfo Digimon](https://caioimbroisi.github.io/Supertrunfodigimon/)](https://github.com/CaioImbroisi/Supertrunfodigimon/blob/main/layout_img/logo.png)
+[![Super Trunfo Digimon](https://github.com/CaioImbroisi/Supertrunfodigimon/blob/main/layout_img/logo.png)](https://caioimbroisi.github.io/Supertrunfodigimon/)
+
 
 # Super Trunfo: Digimon PSX
 - Super Trunfo do digimon, este projeto foi feito na minha primeira semana estudando programação.
